@@ -5,27 +5,27 @@ Bhojon is a full stack food delivery platform built using Django, where users ca
 It includes role based dashboards for Customers, Admin, Restaurant Owners and Delivery Personnel.
 A simple chatbot is also included to provide menu suggestions and answer basic user queries.
 
-##Key Features:
+#Key Features:
 ### User Features
 
-Browse restaurants and food items
-Add to cart & place orders
-Built in chatbot for recommendations
-Profile / account management
+-Browse restaurants and food items
+-Add to cart & place orders
+-Built in chatbot for recommendations
+-Profile / account management
 
 ### Admin Panel
 
-Manage restaurants
-Manage users
-View orders and system analytics
-Restaurant Owner Panel
-Add, edit, update menu items
-Manage incoming orders
-Update preparation status
+-Manage restaurants
+-Manage users
+-View orders and system analytics
+-Restaurant Owner Panel
+-Add, edit, update menu items
+-Manage incoming orders
+-Update preparation status
 
-Delivery Personnel Panel
-View assigned deliveries
-Update delivery progress
+-Delivery Personnel Panel
+-View assigned deliveries
+-Update delivery progress
 
 ## Tech Stack
 
@@ -36,13 +36,13 @@ Tools: Virtualenv, Django Admin, Django Templating System
 
 📂 Project Structure
 Bhojon/
-│── Bhojon/               # Main Django project
-│── members/              # User authentication, profiles
-│── dashboard/            # Admin, restaurant dashboard
-│── bot/                  # Chatbot module
-│── static/               # CSS, JS, images
-│── templates/            # All HTML templates
-│── venv/                 # Virtual environment
+│── Bhojon/               
+│── members/              
+│── dashboard/            
+│── bot/                 
+│── static/              
+│── templates/            
+│── venv/                 
 │── manage.py
 │── requirements.txt
 
