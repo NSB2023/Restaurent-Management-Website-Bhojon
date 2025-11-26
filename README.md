@@ -8,24 +8,23 @@ A simple chatbot is also included to provide menu suggestions and answer basic u
 #Key Features:
 ### User Features
 
--Browse restaurants and food items
--Add to cart & place orders
--Built in chatbot for recommendations
--Profile / account management
+1.Browse restaurants and food items
+2.Add to cart & place orders
+3.Built in chatbot for recommendations
+4.Profile / account management
 
 ### Admin Panel
 
--Manage restaurants
--Manage users
--View orders and system analytics
--Restaurant Owner Panel
--Add, edit, update menu items
--Manage incoming orders
--Update preparation status
-
--Delivery Personnel Panel
--View assigned deliveries
--Update delivery progress
+1.Manage restaurants
+2.Manage users
+3.View orders and system analytics
+4.Restaurant Owner Panel
+5.Add, edit, update menu items
+6.Manage incoming orders
+7.Update preparation status
+8.Delivery Personnel Panel
+9.View assigned deliveries
+10.Update delivery progress
 
 ## Tech Stack
 
